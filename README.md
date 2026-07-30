@@ -1,9 +1,4 @@
-<div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450">
-</p>
-type=waving&height=250&color=0:00BFFF,100:6A5ACD&text=Jalal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Frontend%20Developer%20%7C%20Always%20Learning&descAlignY=58"/>
 
 </div>
 
@@ -16,6 +11,12 @@ Hi 👋 I'm Jalal
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Python+Learner;Building+Responsive+Websites;Open+to+Freelance+Projects;Always+Learning+New+Skills+🚀"/>
 
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450">
+</p>
+type=waving&height=250&color=0:00BFFF,100:6A5ACD&text=Jalal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Frontend%20Developer%20%7C%20Always%20Learning&descAlignY=58"/>
+
+</div>
 
 <p align="center">
 
