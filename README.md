@@ -1,23 +1,111 @@
-<h1 align="center">👋 Hi, I'm Jalal</h1>
+<h1 align="center">Hi 👋, I'm Jalal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Beginner+Developer+%F0%9F%92%BB;Learning+%26+Building+%F0%9F%9A%80;Web+Development+%F0%9F%8C%90;Growing+Every+Day+%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+Python+%26+AI;Building+Modern+Websites;Open+to+Learning+and+Growth+🚀" />
 </p>
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mjalal477&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-I'm a beginner developer learning programming and building projects step by step.
+---
 
-## 🛠️ Skills
+# 👨‍💻 About Me
 
-HTML • CSS • JavaScript • Python • Git & GitHub
+💻 I'm **Jalal**, a passionate Frontend Developer from Pakistan.
 
-## 🎯 My Goal
+🌱 Currently learning **HTML, CSS, JavaScript, Python & AI**
 
-Learn → Build → Improve → Grow 🚀
+🚀 I love creating responsive and user-friendly websites.
 
-## 🚀 My Journey
+📚 Every project is an opportunity to learn something new.
 
-This GitHub profile represents my journey from beginner to developer.
+🎯 My goal is to become a skilled Full Stack Developer and work with clients worldwide.
 
-⭐ Thanks for visiting my profile!
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mjalal477&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjalal477&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mjalal477&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mjalal477&theme=algolia&margin-w=15"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+✔ Responsive Web Design
+
+✔ Modern UI Development
+
+✔ JavaScript
+
+✔ Python
+
+✔ AI Tools
+
+✔ Real-World Projects
+
+---
+
+# 📂 Featured Projects
+
+⭐ Landing Pages
+
+⭐ Portfolio Website
+
+⭐ Responsive Websites
+
+⭐ HTML & CSS Projects
+
+⭐ JavaScript Projects
+
+⭐ Python Projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/mjalal477">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Keep Learning. Keep Building. Keep Growing." 🚀**
+
+---
+
+<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
