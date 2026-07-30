@@ -1,13 +1,23 @@
-### Assalam-o-Alaikum 👋 I'm M Jalal
+<h1 align="center">👋 Hi, I'm Jalal</h1>
 
-- 👀 **About Me**: Main Web Developer hun aur naye projects banana pasand hai
-- 🌱 **Learning**: Abhi React aur Node.js seekh raha hun 
-- 💼 **Skills**: HTML, CSS, JavaScript, Canva Design
-- 📫 **Contact**: mjalal477@gmail.com
-- ⚡ **Fun Fact**: Mehnat aur consistency par yaqeen rakhta hun
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Beginner+Developer+%F0%9F%92%BB;Learning+%26+Building+%F0%9F%9A%80;Web+Development+%F0%9F%8C%90;Growing+Every+Day+%F0%9F%8C%B1" />
+</p>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjalal477&show_icons=true&theme=radical)
+## 🧑‍💻 About Me
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+I'm a beginner developer learning programming and building projects step by step.
+
+## 🛠️ Skills
+
+HTML • CSS • JavaScript • Python • Git & GitHub
+
+## 🎯 My Goal
+
+Learn → Build → Improve → Grow 🚀
+
+## 🚀 My Journey
+
+This GitHub profile represents my journey from beginner to developer.
+
+⭐ Thanks for visiting my profile!
