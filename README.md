@@ -65,8 +65,6 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 ---
 
-
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -139,6 +137,27 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 <td width="50%">
 
+### 🐍 Python Projects
+
+🔹 Calculator
+
+🔹 Number Guessing Game
+
+🔹 File Handling
+
+🔹 Mini Automation
+
+<a href="https://github.com/mjalal477">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 # 🌱 Currently Learning
 
@@ -285,20 +304,6 @@ If you like my work, don't forget to ⭐ my repositories and follow my GitHub pr
 
 </p>
 
----
-
-# 🐍 Snake Contribution Animation
-
-> **Important:** Is feature ke liye GitHub Actions setup karni hoti hai.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mjalal477/mjalal477/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
 # 💡 Random Developer Quote
 
 <p align="center">
@@ -328,69 +333,6 @@ while (alive) {
 HTML        ████████████████████ 100%
 CSS         ████████████████████ 100%
 JavaScript  ███████████████░░░░░ 75%
-Python      ████████████░░░░░░░░ 60%
-Git         ███████████████░░░░░ 75%
-React       █████░░░░░░░░░░░░░░░ 20%
-```
-
----
-
-# 🎯 2026 Roadmap
-
-✅ Master HTML
-
-✅ Master CSS
-
-🔄 Become Advanced in JavaScript
-
-🔄 Learn React
-
-🔄 Learn Python
-
-🚀 Build 50+ Real Projects
-
-💼 Start Freelancing
-
-🌍 Contribute to Open Source
-
-🎯 Become a Full Stack Developer
-
----
-
-# ☕ Support Me
-
-<p align="center">
-
-<a href="https://github.com/mjalal477">
-<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/mjalal477?tab=repositories">
-<img src="https://img.shields.io/badge/Star-My%20Repositories-yellow?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# ❤️ Thanks For Visiting
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting!;Happy+Coding!;Keep+Learning!;See+You+Again!"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:00BFFF,100:6A5ACD"/>
-
-</p>
----
-
-
 Python      ████████████░░░░░░░░ 60%
 Git         ███████████████░░░░░ 75%
 React       █████░░░░░░░░░░░░░░░ 20%
