@@ -77,7 +77,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=mjalal477&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mjalal477&show_icons=true&theme=tokyonight"/>
 
 </p>
 
@@ -87,7 +87,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mjalal477&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mjalal477&theme=algolia"/>
 
 </p>
 
@@ -98,5 +98,201 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjalal477&theme=tokyo-night&hide_border=true"/>
+
+</p>
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Responsive Website
+
+🔹 HTML5  
+🔹 CSS3  
+🔹 JavaScript  
+🔹 Responsive Design  
+🔹 Mobile Friendly
+
+<a href="https://github.com/mjalal477">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce Website
+
+🔹 Product Cards
+
+🔹 CSS Grid
+
+🔹 Flexbox
+
+🔹 Responsive Layout
+
+<a href="https://github.com/mjalal477">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 Portfolio Website
+
+🔹 Modern UI
+
+🔹 Responsive
+
+🔹 Smooth Animation
+
+🔹 Fast Loading
+
+<a href="https://github.com/mjalal477">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🐍 Python Projects
+
+🔹 Calculator
+
+🔹 Number Guessing Game
+
+🔹 File Handling
+
+🔹 Mini Automation
+
+<a href="https://github.com/mjalal477">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=800&center=true&vCenter=true&width=700&lines=Currently+Learning...;Advanced+HTML;Modern+CSS;JavaScript+ES6;Python;Git+%26+GitHub;React+Coming+Soon"/>
+
+</p>
+
+- 🌐 Advanced HTML
+- 🎨 Modern CSS
+- ⚡ JavaScript (ES6+)
+- 🐍 Python
+- 📂 Git & GitHub
+- ⚛️ React (Next Target)
+
+---
+
+# 🛠 Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,windows,chrome"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master HTML
+- ✅ Master CSS
+- 🔄 Master JavaScript
+- ⏳ Learn React
+- 🔄 Learn Python
+- 🚀 Build 50+ Projects
+- 💼 Start Freelancing
+- 🌍 Contribute to Open Source
+- 📚 Learn New Technologies Every Day
+
+---
+
+# 💻 Coding Time
+
+<p align="center">
+
+<img width="450" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+</p>
+
+---
+
+# 🌟 My Motto
+
+> **"Consistency Beats Talent."**
+
+> **"Every Expert Was Once a Beginner."**
+
+> **"Learn → Build → Improve → Repeat."**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mjalal477">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR-EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://facebook.com/YOUR-FACEBOOK">
+<img src="https://skillicons.dev/icons?i=facebook" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+- 💼 Available for Freelance Projects
+- 📧 Email: **YOUR-EMAIL@gmail.com**
+- 🌍 Country: **Pakistan**
+- 💬 Ask me about **HTML, CSS, JavaScript & Python**
+
+---
+
+# ❤️ Support My Work
+
+If you like my work, don't forget to ⭐ my repositories and follow my GitHub profile.
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mjalal477&style=for-the-badge&color=0e75b6"/>
 
 </p>
