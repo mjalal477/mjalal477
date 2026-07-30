@@ -65,33 +65,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mjalal477&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjalal477&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mjalal477&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mjalal477&theme=algolia"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -165,27 +139,6 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 <td width="50%">
 
-### 🐍 Python Projects
-
-🔹 Calculator
-
-🔹 Number Guessing Game
-
-🔹 File Handling
-
-🔹 Mini Automation
-
-<a href="https://github.com/mjalal477">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🌱 Currently Learning
 
@@ -437,83 +390,7 @@ React       █████░░░░░░░░░░░░░░░ 20%
 </p>
 ---
 
-# 📊 GitHub Profile Summary
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjalal477&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjalal477&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mjalal477&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjalal477&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjalal477&theme=tokyonight&utcOffset=5"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjalal477&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Snake Contribution Animation
-
-> **Important:** Is feature ke liye GitHub Actions setup karni hoti hai.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mjalal477/mjalal477/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# 💡 Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Code
-
-```javascript
-while (alive) {
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
-
----
-
-# 💻 My Development Journey
-
-```text
-HTML        ████████████████████ 100%
-CSS         ████████████████████ 100%
-JavaScript  ███████████████░░░░░ 75%
 Python      ████████████░░░░░░░░ 60%
 Git         ███████████████░░░░░ 75%
 React       █████░░░░░░░░░░░░░░░ 20%
