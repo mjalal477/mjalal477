@@ -40,7 +40,6 @@
 ---
 
 # 🚀 Tech Stack
-
 c="hi=html,css,js,python,git,github,vscode,figma"/>
 
 </p>
@@ -153,7 +152,7 @@ c="hi=html,css,js,python,git,github,vscode,figma"/>
 
 # 🌱 Currently Learning
 
-<p align="center">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=800&center=true&vCenter=true&width=700&lines=Currently+Learning...;Advanced+HTML;Modern+CSS;JavaScript+ES6;Python;Git+%26+GitHub;React+Coming+Soon"/>
 
@@ -211,11 +210,7 @@ src="hti=vscode,git,github,figma,windows,chrome"/>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/mjalal477">
+href="https://github.com/mjalal477">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
