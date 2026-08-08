@@ -292,24 +292,4 @@ Git         ███████████████░░░░░ 75%
 React       █████░░░░░░░░░░░░░░░ 20%
 ```
 
----
 
-# 🎯 2026 Roadmap
-
-✅ Master HTML
-
-✅ Master CSS
-
-🔄 Become Advanced in JavaScript
-
-🔄 Learn React
-
-🔄 Learn Python
-
-🚀 Build 50+ Real Projects
-
-💼 Start Freelancing
-
-🌍 Contribute to Open Source
-
-🎯 Become a Full Stack Development
