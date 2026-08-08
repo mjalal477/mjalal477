@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Jalal
 
-### 💻 Frontend Developer | 🌐 Web Designer | 🚀 Python Learner
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Responsive+Web+Designer;HTML+%7C+CSS+%7C+JavaScript;Learning+Python;Open+for+Freelancing;Always+Learning+New+Skills" />
 
@@ -24,11 +24,9 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-### 👋 Hello!
 
-I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
-- 🌱 Currently learning **JavaScript**
+- 
 - 💻 Building Responsive Websites
 - 🐍 Learning Python
 - 🎯 Goal: Become a Professional Full Stack Developer
@@ -43,9 +41,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 # 🚀 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma"/>
+c="hi=html,css,js,python,git,github,vscode,figma"/>
 
 </p>
 
@@ -81,11 +77,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 <td width="50%">
 
-### 🌐 Responsive Website
-
-🔹 HTML5  
-🔹 CSS3  
-🔹 JavaScript  
+### 🌐 Responsive W
 🔹 Responsive Design  
 🔹 Mobile Friendly
 
@@ -169,7 +161,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 - 🌐 Advanced HTML
 - 🎨 Modern CSS
-- ⚡ JavaScript (ES6+)
+  
 - 🐍 Python
 - 📂 Git & GitHub
 - ⚛️ React (Next Target)
@@ -178,9 +170,8 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 # 🛠 Tools I Use
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,windows,chrome"/>
+src="hti=vscode,git,github,figma,windows,chrome"/>
 
 </p>
 
@@ -190,7 +181,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 - ✅ Master HTML
 - ✅ Master CSS
-- 🔄 Master JavaScript
+  
 - ⏳ Learn React
 - 🔄 Learn Python
 - 🚀 Build 50+ Projects
@@ -250,24 +241,7 @@ I'm **Jalal**, a passionate **Frontend Developer** from **Pakistan**.
 
 ---
 
-# 📫 Contact Me
 
-- 💼 Available for Freelance Projects
-- 📧 Email: **YOUR-EMAIL@gmail.com**
-- 🌍 Country: **Pakistan**
-- 💬 Ask me about **HTML, CSS, JavaScript & Python**
-
----
-
-# ❤️ Support My Work
-
-If you like my work, don't forget to ⭐ my repositories and follow my GitHub profile.
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mjalal477&style=for-the-badge&color=0e75b6"/>
-
-</p>
 ---
 
 # 📊 GitHub Profile Summary
@@ -308,22 +282,7 @@ If you like my work, don't forget to ⭐ my repositories and follow my GitHub pr
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Code
-
-```javascript
-while (alive) {
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=to
 
 ---
 
@@ -358,38 +317,4 @@ React       █████░░░░░░░░░░░░░░░ 20%
 
 🌍 Contribute to Open Source
 
-🎯 Become a Full Stack Developer
-
----
-
-# ☕ Support Me
-
-<p align="center">
-
-<a href="https://github.com/mjalal477">
-<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/mjalal477?tab=repositories">
-<img src="https://img.shields.io/badge/Star-My%20Repositories-yellow?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# ❤️ Thanks For Visiting
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting!;Happy+Coding!;Keep+Learning!;See+You+Again!"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:00BFFF,100:6A5ACD"/>
-
-</p>
+🎯 Become a Full Stack Development
